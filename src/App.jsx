@@ -401,7 +401,7 @@ const App = () => {
         <div className="mt-12">
           <p className="text-xs text-gray-500 uppercase tracking-widest mb-4">Scan to Partner</p>
           <QRCode
-            value="https://avsi-builderprogram.netlify.app"
+            value="https://avsolutions-integration.com"
             size={180}
             logoImage="/images/avsi-logo.png"
             logoWidth={60}
